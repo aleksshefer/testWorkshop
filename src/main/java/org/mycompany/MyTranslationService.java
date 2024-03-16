@@ -1,4 +1,4 @@
-package org.mycompany;
+    package org.mycompany;
 
 import com.google.cloud.translate.Translate;
 import com.google.cloud.translate.Translation;
